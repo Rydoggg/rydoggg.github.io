@@ -148,7 +148,7 @@ class Homepage extends React.Component {
               Ryan Long
             </t.H1>
             <t.LargeP align="center" max45>
-              A friendly Freelance Developer based just outside of London, UK. Taking development seriously whilst
+              A friendly Software Consultant based just outside of London, UK. Taking development seriously whilst
               ensuring that a client's ideas are brought to life, alongside adhering to strict timelines and best
               practices.
             </t.LargeP>
@@ -233,16 +233,16 @@ class Homepage extends React.Component {
           <Block>
             <BlockContent>
               <DivWrapper>
-                <t.H2 bold>MoD Training Tool App</t.H2>
+                <t.H2 bold>Training Tool App</t.H2>
                 <t.P>
-                  Currently I'm working on a contract for the Ministry of Defence (MoD) who have asked for a bespoke
+                  Currently I'm working on a contract for a large company who have asked for a bespoke
                   mobile application to aid in training on a piece of unique equipment. The application needs to be
                   secure, responsive and lightweight.
                 </t.P>
                 <t.P>React Native / JavaScript / HTML / CSS</t.P>
               </DivWrapper>
               <DivWrapper>
-                <ItemImage src={'https://i.imgur.com/LwmQjDE.png'} alt="Placeholder title" />
+                <ItemImage src={'https://i.imgur.com/YFlcKw8.png'} alt="Placeholder title" />
               </DivWrapper>
             </BlockContent>
           </Block>

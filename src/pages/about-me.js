@@ -87,10 +87,10 @@ class AboutMe extends React.Component {
         >
           <AboveFold>
             <t.H1 green align="center">
-              Ryan Long - Freelance Developer
+              Ryan Long - Software Consultant
             </t.H1>
             <t.LargeP align="center" max70>
-              Self taught freelance Front End Developer currently working in the British Army but looking for a change
+              Self taught Front End Developer currently working in the British Army but looking for a change
               into a full time development career. A strong passion for technology and development, self motivated with
               exceptional communication and interpersonal skills backed by a great work ethic.
             </t.LargeP>
